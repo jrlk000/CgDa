@@ -1,0 +1,16 @@
+# (Pseudo-) Daten SS 2022
+# Messtabelle: Auslenkung für verschiedene Massen:
+#
+# Unsicherheit der Massenmessung:  0.1 g
+# Unsicherheit der Wegmessung:     0.2 cm
+#
+# Masse   Auslenkung
+#  (g)     (cm)
+    25    2.1
+    50    3.4
+    75    4.9
+   100    6.4
+   125    8.4
+   150    10.1
+   175    11.7
+   200    13.5
